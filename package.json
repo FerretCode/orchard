@@ -1,0 +1,24 @@
+{
+  "name": "orchard",
+  "version": "1.0.0",
+  "description": "i got challenged to build a browser by my friend so that's what i'm doing here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FerretCode/orchard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FerretCode/orchard/issues"
+  },
+  "homepage": "https://github.com/FerretCode/orchard#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^11.2.3"
+  }
+}
